@@ -1,0 +1,46 @@
+{
+  "languages": [
+    {
+      "id": "GOLANG",
+      "label": "Go",
+      "description": "Go 1.19.3",
+      "icon": "/assets/icons/golang.svg"
+    },
+    {
+      "id": "JAVA_MAVEN",
+      "label": "Java (Maven)",
+      "description": "Java 18 environment with Maven 3.8.6",
+      "icon": "/assets/icons/maven.svg"
+    },
+    {
+      "id": "JAVA_GRADLE",
+      "label": "Java (Gradle)",
+      "description": "Java 18 environment with Gradle 7.5.1",
+      "icon": "/assets/icons/gradle.svg"
+    },
+    {
+      "id": "NODEJS",
+      "label": "Node.js",
+      "description": "Node 19.1.0 environment with NPM 8.19.3",
+      "icon": "/assets/icons/nodejs.svg"
+    },
+    {
+      "id": "RUST",
+      "label": "Rust",
+      "description": "Rust 1.65.0",
+      "icon": "/assets/icons/rust.svg"
+    },
+    {
+      "id": "RUBY",
+      "label": "Ruby",
+      "description": "Ruby 3.1.2",
+      "icon": "/assets/icons/ruby.svg"
+    },
+    {
+      "id": "PYTHON",
+      "label": "Python",
+      "description": "Python 3.11",
+      "icon": "/assets/icons/python.svg"
+    }
+  ]
+}
